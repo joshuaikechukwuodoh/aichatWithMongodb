@@ -42,7 +42,7 @@ export const createNewChat = async (req, res) => {
 
         await assistMessage.save();
 
-        //sending response to client
+        //sending response to client with the response gotten from ai
         res.status(200).json({ message: aiReply });
         
     } catch (error) {
