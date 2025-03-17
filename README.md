@@ -15,8 +15,8 @@ Before running the application, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/solomon-chi/aichatBackend.git
-    cd aichatBackend
+    git clone https://github.com/joshuaikechukwuodoh/aichatWithMongodb.git
+    cd aichatWithMongodb
     ```
 
 2.  **Install dependencies:**
